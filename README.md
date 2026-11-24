@@ -1,7 +1,9 @@
 # O/L Science & ICT Quest
 
-Practice page for G.C.E. O/L Science and ICT (English-medium): bilingual (සිංහල/English) MCQs by lesson, timed model papers, marking schemes and printable PDFs.
+Study pages for G.C.E. O/L Science and ICT (English-medium), bilingual සිංහල/English.
 
-Open: https://drcjayawardena.github.io/ol-science-ict-quest/
+- Practice quiz + model papers: https://drcjayawardena.github.io/ol-science-ict-quest/
+- Science guide (topic analysis, forecast, lessons, MCQs, past questions): https://drcjayawardena.github.io/ol-science-ict-quest/science/
+- ICT guide (topic analysis, forecast, lessons, MCQs, past questions): https://drcjayawardena.github.io/ol-science-ict-quest/ict/
 
-Prepared for home practice. Not an official examination paper.
+Prepared for home practice. Not official examination material.
